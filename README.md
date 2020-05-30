@@ -8,6 +8,6 @@ To run this project, install it locally:
 $ sudo git clone https://github.com/rahulrmsh/Offline-Eng-Dictionary.git
 $ cd Offline-Eng-Dictionary
 $ python3 -m pip install -r requirements.txt
-$ pyhton3 user_dictionary.py
+$ python3 user_dictionary.py
 ````
 
